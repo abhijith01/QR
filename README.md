@@ -20,6 +20,14 @@ This project invovles 2 steps
 
 # creating QR 
 To create QR we use 
+qrcode module
+
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/54503176/157442183-07001de1-df1a-4c85-ae37-b26df7f7c71c.png)
 
 
  
