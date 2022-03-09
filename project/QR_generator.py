@@ -1,3 +1,5 @@
 import qrcode
-import 
-img= make.make
+url=input("Enter an url")
+img= qrcode.make(url)
+img.save("myqr.png")
+img.show()
